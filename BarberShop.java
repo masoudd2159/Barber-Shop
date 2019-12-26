@@ -5,7 +5,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author Masoud Dabbaghi
  * @version 1.0
- * @link https://github.com/masoudd2159
+ * @link https://github.com/masoudd2159/Barber-Shop
  * @since 2019
  **/
 
